@@ -1,0 +1,8 @@
+Davide	Rossi	472995	1	5
+Simone	Rossi	304392	1	10
+Davide	Rossi	472995	2	7
+Davide	Rossi	472995	3	7
+Davide	Rossi	472995	4	5
+Simone	Rossi	304392	2	10
+Simone	Rossi	304392	3	10
+Simone	Rossi	304392	4	10
